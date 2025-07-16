@@ -1,0 +1,30 @@
+.color-choice{
+    max-width: 64px;
+    text-align: center;
+}
+
+.btn{
+    border: 1px solid #DEE2E6;   
+    padding: 12px 0px;
+}
+
+.size-btn .btn{
+    width: 160px;
+}
+
+.btn-active{
+    border: 1px solid #212529;
+}
+
+.add-button .btn{
+    width: 280px;
+}
+
+.booking, .bi-handbag{
+    background-color: #212529;
+    color: #ffffff;
+}
+
+.b-line{
+    border-bottom: 1px solid #DEE2E6;
+}

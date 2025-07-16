@@ -1,0 +1,14 @@
+.category ol li{
+    padding: 16px 0px;
+}
+
+
+.pages .btn{
+    box-sizing: border-box;
+    width: 40px;
+    height: 40px;
+}
+
+.btn-active{
+    background-color: #C0FA73;
+}
